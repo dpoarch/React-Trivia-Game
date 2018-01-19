@@ -14,7 +14,7 @@ $ npm install
 
 ```
 
-#### To start the expo app
+#### To start the packager
 
 Run the following command
 
